@@ -1,0 +1,44 @@
+** Tuesday 31/10 11:59 PM
+	Implemented JAL and JALR instructions
+
+** Wednesday 1/10 11:59 PM
+	Implemented LUI, AUIPC, ECALL, FENCE, and EBREAK instructions
+
+** Thursday 2/11 11:59 PM
+	Modified the control unit
+
+** Friday 3/11 11:59 PM
+	Finished the top module with the additional multiplexers 
+
+** Saturday 4/11 11:59 PM
+	Drew the block diagram and designed some test cases
+
+** Sunday 5/11 11:59 PM
+	Did final debugging and finished the report
+
+** Tuesday 14/11 11:59 PM
+	Debugged the errors of the edge cases of shifting and jumping instructions in the single-cycle processor
+
+** Wednesday 15/11 11:59 PM
+	Draw the data path diagram with all the components to visualize the project while writing the code
+
+** Thursday 16/11 11:59 PM
+	implement the piplined architecture with the group
+
+** Friday 17/11 11:59 PM
+	continued the implementation of the pipelined architecture with the group
+
+** Saturday 17/11 11:59 PM
+	implemented the forwarding unit for the piplined architecture.
+
+** Wedensday 22/11 11:59 PM
+	Did final debugging with the group for the code 
+
+** Saturday 25/11 11:59 PM
+	handled the cases of EBREAK, FENCE, ECALL in the pipelining
+
+** Sunday 25/11 11:59 PM
+	wrote a test program generator for some instruction types.
+
+** Sunday 26/11 11:59 PM
+	worked on the report

@@ -1,0 +1,44 @@
+** Monday 30/10 11:59 PM
+	Implemented the branch control unit and the shifter of the ALU
+
+** Tuesday 31/10 11:59 PM
+	Implemented the Branch instructions
+
+** Wednesday 1/11 11:59 PM
+	Completed the load and store instructions and implemented the I-type instructions
+
+** Thursday 2/11 11:59 PM
+	Modified the ALU control Unit
+
+** Saturday 4/11 11:59 PM
+	Designed some test cases
+
+** Sunday 5/11 11:59 PM
+	Did final debugging and finished the report
+
+** Wednesday 15/11 11:59 PM
+	Figured out a different way to handle the structural hazard introduced by using a single single-ported memory and modified the data path accordingly
+
+** Thursday 16/11 11:59 PM
+	implement the piplined architecture with the group
+
+** Friday 17/11 11:59 PM
+	continued the implementation of the pipelined architecture with the group
+
+** Saturday 17/11 11:59 PM
+	write the code of the single memory for the piplined architecture.
+
+** Sunday 18/11 11:59 PM
+	implemented the hazard detection to resolve the structural hazards, in a different and load-use dependence.
+
+** Wedensday 22/11 11:59 PM
+	Did final debugging with the group for the code 
+
+** Saturday 25/11 11:59 PM
+	write few test cases for testing the program
+
+** Sunday 26/11 11:59 PM
+	worked on the report
+
+
+

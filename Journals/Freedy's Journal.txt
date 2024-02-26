@@ -1,0 +1,32 @@
+** Monday 13/11 11:59 PM
+	Supported the wrong instructions in the Milestone 2
+
+** Tuesday 14/11 11:59 PM
+	Debugged the errors of all branching instructions in the single-cycle processor
+
+** Thursday 16/11 11:59 PM
+	implement the piplined architecture with the group
+
+** Friday 17/11 11:59 PM
+	continued the implementation of the pipelined architecture with the group
+
+** Saturday 18/11 11:59 PM
+	Support for the flushing of the instructions for taken branches, jal, and jalr. 
+
+** Sunday 19/11 11:59 PM
+	supported for integer multiplication and division to effectively support the full RV32IM instruction set. 
+
+** Monday 20/11 11:59 PM
+	finished the support for the full RV32IM instruction set.
+
+** Tuesday 21/11 11:59 PM
+	solved the issue of overlapping the multilcation with the functions of the R_Type.
+
+** Wedensday 22/11 11:59 PM
+	Did final debugging with the group for the code 
+
+** Saturday 25/11 11:59 PM
+	write the test cases for testing the program 
+
+** Sunday 26/11 11:59 PM
+	worked on the report
